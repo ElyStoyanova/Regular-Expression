@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\bin\Debug\netcoreapp3.1\Nether Realms.exe
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\bin\Debug\netcoreapp3.1\Nether Realms.deps.json
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\bin\Debug\netcoreapp3.1\Nether Realms.runtimeconfig.json
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\bin\Debug\netcoreapp3.1\Nether Realms.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\bin\Debug\netcoreapp3.1\Nether Realms.dll
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\bin\Debug\netcoreapp3.1\Nether Realms.pdb
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\obj\Debug\netcoreapp3.1\Nether Realms.csproj.AssemblyReference.cache
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\obj\Debug\netcoreapp3.1\Nether Realms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\obj\Debug\netcoreapp3.1\Nether Realms.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\obj\Debug\netcoreapp3.1\Nether Realms.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\obj\Debug\netcoreapp3.1\Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\obj\Debug\netcoreapp3.1\Nether Realms.dll
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\obj\Debug\netcoreapp3.1\Nether Realms.pdb
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp3\obj\Debug\netcoreapp3.1\Nether Realms.genruntimeconfig.cache

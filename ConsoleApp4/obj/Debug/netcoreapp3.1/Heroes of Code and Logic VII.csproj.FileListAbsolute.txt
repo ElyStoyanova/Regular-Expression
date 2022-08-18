@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.exe
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.deps.json
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.dll
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.pdb
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.dll
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.pdb
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp4\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.genruntimeconfig.cache

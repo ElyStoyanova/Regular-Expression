@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\bin\Debug\netcoreapp3.1\Plant Discovery.exe
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\bin\Debug\netcoreapp3.1\Plant Discovery.deps.json
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\bin\Debug\netcoreapp3.1\Plant Discovery.runtimeconfig.json
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\bin\Debug\netcoreapp3.1\Plant Discovery.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\bin\Debug\netcoreapp3.1\Plant Discovery.dll
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\bin\Debug\netcoreapp3.1\Plant Discovery.pdb
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\obj\Debug\netcoreapp3.1\Plant Discovery.csproj.AssemblyReference.cache
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\obj\Debug\netcoreapp3.1\Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\obj\Debug\netcoreapp3.1\Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\obj\Debug\netcoreapp3.1\Plant Discovery.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\obj\Debug\netcoreapp3.1\Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\obj\Debug\netcoreapp3.1\Plant Discovery.dll
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\obj\Debug\netcoreapp3.1\Plant Discovery.pdb
+C:\Users\estoy\source\repos\Regular Expressions\ConsoleApp1\obj\Debug\netcoreapp3.1\Plant Discovery.genruntimeconfig.cache

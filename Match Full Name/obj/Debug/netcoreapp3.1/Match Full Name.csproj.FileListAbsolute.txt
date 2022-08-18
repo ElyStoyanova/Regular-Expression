@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.exe
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.deps.json
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.runtimeconfig.json
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.dll
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.pdb
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.csproj.AssemblyReference.cache
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.dll
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.pdb
+C:\Users\estoy\source\repos\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.genruntimeconfig.cache
